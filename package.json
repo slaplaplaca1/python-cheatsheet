@@ -10,7 +10,7 @@
     "fetch-contributors": "esno scripts/fetch-contributors.ts"
   },
   "dependencies": {
-    "@docsearch/js": "^3.3.0",
+    "@docsearch/js": "^3.9.0",
     "@headlessui/vue": "^1.7.4",
     "@vueuse/core": "^9.6.0",
     "@vueuse/head": "^0.9.8",
